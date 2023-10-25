@@ -1,6 +1,6 @@
 # hongtang (hgt) - real-time translation 
 
-[Download Beta APKS](https://github.com/bt0j/hgt/releases)
+[Download Beta APKs](https://github.com/bt0j/hgt/releases)
 
 hongtang is a real-time translation app for Android and iOS. It allows you to speak in one language, and with AI voice, will say it in the language of your choice. You can also scan images and take pictures in real time to translate, using your device's camera. This app will be based on Google's [Flutter](https://docs.flutter.dev/) extension for [Android Studio](developer.android.com/studio), and use the [Dart](https://dart.dev/) programming language.
 
