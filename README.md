@@ -47,6 +47,8 @@ Apple iPhone with iOS 11+ (Statblest - iPhone X+)
 [Permission Handler](https://pub.dev/packages/permission_handler)
 <br>
 [Google Machine Learning Kit](https://pub.dev/packages/google_ml_kit)
+<br>
+[Flutter_Camera](https://pub.dev/packages/flutter_camera)
 
 
   
